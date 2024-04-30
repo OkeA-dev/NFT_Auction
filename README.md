@@ -13,7 +13,7 @@ This is a smart contract written in Solidity that implements a time-limited auct
 
 To deploy and interact with this contract, you'll need:
 
-- A compatible Ethereum development environment (e.g., Remix, Truffle, Hardhat)
+- A compatible Ethereum development environment (e.g., Remix, Hardhat)
 - An Ethereum client or node to connect to (e.g., Ganache, Geth, Infura)
 - Basic understanding of Solidity and smart contract development
 
